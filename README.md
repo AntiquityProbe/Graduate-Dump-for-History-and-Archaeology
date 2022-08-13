@@ -1,1 +1,16 @@
-# Graduate Dump for History and Archaeology
+## Table of Contents:
+1. [Podcasts](Pages\Podcasts.md)
+2. [History on Social Media](Pages\History-on-Social-Media.md)
+3. [Journals](Pages\Journals.md)
+4. [Reading Groups and Societies](Pages\Reading-Groups-and-Societies.md)
+5. [How to mentor Graduate Students (Michigan Guide)](Pages\How-to-mentor-Graduate-Students-(Michigan-Guide).md)
+6. [Graduate Programs with Funding Information](Pages\Graduate-Programs-with-Funding-Information.md) 
+7. [Resources for Application Material](Pages\Resources-for-Application-Material.md)
+8. [Language Learning Resources](Pages\Language-Learning-Resources.md)
+9. [Tech](Pages\Tech.md)
+10. [Gaming](Pages\Gaming.md)
+11. [Terminology](Pages\Terminology.md)
+12. [Academic Writing Support](Pages\Academic-Writing-Support.md)
+13. [Graduate Program Application Advice](Pages\Graduate-Program-Application-Advice.md)
+14. [Facebook Groups for History](Pages\Facebook-Groups-for-History.md)
+15. [Massive Resource Compilation from](Pages\Massive-Resource-Compilation-from.md)
