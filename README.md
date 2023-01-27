@@ -44,5 +44,5 @@
 11. [Terminology](Pages/Terminology.md)
 12. [Academic Writing Support](Pages/Academic-Writing-Support.md)
 13. [Graduate Program Application Advice](Pages/Graduate-Program-Application-Advice.md)
-14. [Facebook Groups for History](Pages/Facebook-Groups-for-History.md)
+14. [Facebook Groups for History](Pages/Facebook-Groups-for-History-and-Archaeology.md)
 15. [Massive Resource Compilation from](Pages/Massive-Resource-Compilation-from.md)
