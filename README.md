@@ -46,3 +46,5 @@
 13. [Graduate Program Application Advice](Pages/Graduate-Program-Application-Advice.md)
 14. [Facebook Groups for History](Pages/Facebook-Groups-for-History-and-Archaeology.md)
 15. [Massive Resource Compilation from](Pages/Massive-Resource-Compilation-from.md)
+16. [Online Bibliographic Repertoires](Pages/Online-Bibliographic-Repertoires.md)
+17. [Online Databases for Classical Texts](Pages/Online-Databases-for-Classical-Texts.md)
