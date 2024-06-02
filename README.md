@@ -38,7 +38,7 @@
 5. [How to mentor Graduate Students (Michigan Guide)](Pages/How-to-mentor-Graduate-Students-(Michigan-Guide).md)
 6. [Graduate Programs with Funding Information](Pages/Graduate-Programs-with-Funding-Information.md) 
 7. [Resources for Application Material](Pages/Resources-for-Application-Material.md)
-8. [Language Learning Resources](Pages/Langauge-Learning-Resources.md)
+8. [Language Learning Resources](Pages/Language-Learning-Resources.md)
 9. [Tech](Pages/Tech.md)
 10. [Gaming](Pages/Gaming.md)
 11. [Terminology](Pages/Terminology.md)
