@@ -26,6 +26,12 @@
 
 * [In Our Time](https://www.bbc.co.uk/programmes/articles/598SVYJ2smP8qJlpH29y7Vj/podcasts)
 
+* [Museum of Lost Objects](https://www.bbc.co.uk/sounds/series/b0738jc2)
+
+* [New Books in Archaeology](https://podcasts.apple.com/us/podcast/new-books-in-archaeology/id615394671)
+
+* [The Ancients](https://podcasts.apple.com/gb/podcast/the-ancients/id1520403988)
+
 * [Throughline | Podcast on Spotify](https://open.spotify.com/show/0vYTIMav7el5VXq5n5pxhI)
 
 * [Ridiculous History | Podcast on Spotify](https://open.spotify.com/show/2jrzUni2biU8YxYgRk4CU4)
