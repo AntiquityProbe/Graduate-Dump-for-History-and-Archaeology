@@ -3,7 +3,7 @@
 # Latin and Greek
 
 * [Latin and Greek: Vivarium Novum](https://www.vivariumnovum.net/en)
-* [Latin] [Salvi](https://latin.org/wordpress/)
+* [Latin: SALVI](https://latin.org/wordpress/)
 
 # Hebrew
 
