@@ -44,6 +44,5 @@
 11. [Academic Writing Support](Pages/Academic-Writing-Support.md)
 12. [Graduate Program Application Advice](Pages/Graduate-Program-Application-Advice.md)
 13. [Facebook Groups for History](Pages/Facebook-Groups-for-History-and-Archaeology.md)
-14. [Massive Resource Compilation from](Pages/Massive-Resource-Compilation-from.md)
-15. [Online Bibliographic Repertoires](Pages/Online-Bibliographic-Repertoires.md)
-16. [Online Databases for Classical Texts](Pages/Online-Databases-for-Classical-Texts.md)
+14. [Online Bibliographic Repertoires](Pages/Online-Bibliographic-Repertoires.md)
+15. [Online Databases for Classical Texts](Pages/Online-Databases-for-Classical-Texts.md)
